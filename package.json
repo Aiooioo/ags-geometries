@@ -1,0 +1,12 @@
+{
+  "name": "ags-geometries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Aiooioo/ags-geometries.git",
+  "author": "wh.Y <goyj5139@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/arcgis-js-api": "^4.6.0",
+    "dojo-typings": "^1.11.9"
+  }
+}
